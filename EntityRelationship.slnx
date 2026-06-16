@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="ManyToMany/ManyToMany.csproj" Id="e88f9922-afe3-409a-b0cd-8237b8c14308" />
+  <Project Path="OneToMany/OneToMany.csproj" Id="35a93e00-4c31-4e21-90c3-654ff036cfa2" />
+  <Project Path="TableMapping/TableMapping.csproj" />
+</Solution>
